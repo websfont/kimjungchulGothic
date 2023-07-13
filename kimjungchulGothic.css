@@ -1,0 +1,48 @@
+@font-face {
+    font-family: "kimjungchulGothic";
+    font-weight: 300;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/websfont/kimjungchulGothic/kimjungchulGothic-Light.eot");
+    src: url("https://cdn.jsdelivr.net/gh/websfont/kimjungchulGothic/kimjungchulGothic-Light.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/websfont/kimjungchulGothic/kimjungchulGothic-Light.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/websfont/kimjungchulGothic/kimjungchulGothic-Light.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/websfont/kimjungchulGothic/kimjungchulGothic-Light.ttf") format("truetype");
+    font-display: swap;
+}
+@font-face {
+    font-family: "kimjungchulGothic";
+    font-weight: 400;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/websfont/kimjungchulGothic/kimjungchulGothic-Regular.eot");
+    src: url("https://cdn.jsdelivr.net/gh/websfont/kimjungchulGothic/kimjungchulGothic-Regular.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/websfont/kimjungchulGothic/kimjungchulGothic-Regular.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/websfont/kimjungchulGothic/kimjungchulGothic-Regular.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/websfont/kimjungchulGothic/kimjungchulGothic-Regular.ttf") format("truetype");
+    font-display: swap;
+}
+@font-face {
+    font-family: "kimjungchulGothic";
+    font-weight: 700;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/websfont/kimjungchulGothic/kimjungchulGothic-Bold.eot");
+    src: url("https://cdn.jsdelivr.net/gh/websfont/kimjungchulGothic/kimjungchulGothic-Bold.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/websfont/kimjungchulGothic/kimjungchulGothic-Bold.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/websfont/kimjungchulGothic/kimjungchulGothic-Bold.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/websfont/kimjungchulGothic/kimjungchulGothic-Bold.ttf") format("truetype");
+    font-display: swap;
+}
+.kimjungchulGothic {
+    font-family: "kimjungchulGothic";
+}
+.kimjungchulGothic300 {
+    font-family: "kimjungchulGothic";
+    font-weight: 300;
+}
+.kimjungchulGothic400 {
+    font-family: "kimjungchulGothic";
+    font-weight: 400;
+}
+.kimjungchulGothic700 {
+    font-family: "kimjungchulGothic";
+    font-weight: 700;
+}
